@@ -1,0 +1,13 @@
+.rowType{
+    display: flex;
+    flex-direction: row;
+}
+
+.boardType{
+    display: table;
+    background-color: bisque;
+    border: 1px brown solid;
+    margin: auto auto;
+    width: 600px;
+    height: 600px;
+}
